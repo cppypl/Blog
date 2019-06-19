@@ -14,5 +14,3 @@
 * [JavaScript 浮点数陷阱及解法](https://github.com/camsong/blog/issues/9)
 * [给2019前端的5个建议](https://github.com/camsong/blog/issues/11)
 
-
-> [原文地址](https://github.com/camsong/)
