@@ -1,8 +1,9 @@
 前端开发博客
 ============
 
-> 关注 Javascript, ES6, Vue, React, Node 等
+> 关注 Javascript, ES6, Vue, Node, Linux 等
 
+* [Vue的slot-scope的场景的个人理解](https://segmentfault.com/a/1190000015884505?utm_source=tag-newest)
 * [VueDraggable，一个很棒的VUE拖动组件](https://github.com/cppypl/Blog/issues/2)
 * [JS自动设置HTML的font-zise，使rem更好的兼容移动端](https://github.com/cppypl/Blog/issues/1)
 * [传统 Ajax 已死，Fetch 永生](https://github.com/camsong/blog/issues/2)
